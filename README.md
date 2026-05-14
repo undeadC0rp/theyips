@@ -1,6 +1,6 @@
 # The Yips CLI
 
-Release distribution repository for the [theyips-cli](https://github.com/undeadC0rp/theyips-cli) tool.
+Release distribution repository for the The Yips cli.
 
 ## Install
 
